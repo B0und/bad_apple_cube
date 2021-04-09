@@ -13,8 +13,8 @@
 https://www.youtube.com/watch?v=DapkoQFzG5M
 
 Always wanted to make bad apple myself, and it was quite a fun challenge.
-Also spent some time optimizing it with numba and i`m quite pleased with the results.
-This uses blender`s particle system and changes particles (cubes in this case) position according to positions of white pixels in a video.
+Also spent some time optimizing it with numba and i\`m quite pleased with the results.
+This uses blender\`s particle system and changes particles (cubes in this case) position according to positions of white pixels in a video.
 
 
 <!-- Installation -->
