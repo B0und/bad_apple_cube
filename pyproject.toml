@@ -7,7 +7,6 @@ authors = ["b0und"]
 [tool.poetry.dependencies]
 python = ">=3.9,<3.10"
 opencv-python = "^4.5.1"
-Pillow = "^8.2.0"
 numba = "^0.53.1"
 
 [tool.poetry.dev-dependencies]
