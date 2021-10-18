@@ -10,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Bad Apple on a 3D Cube
 
-https://www.youtube.com/watch?v=DapkoQFzG5M
+https://www.youtube.com/watch?v=Z-GpzGpXaLA
 
 Always wanted to make bad apple myself, and it was quite a fun challenge.
 Also spent some time optimizing it with numba and i\`m quite pleased with the results.
